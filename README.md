@@ -9,9 +9,11 @@ This script is based on the fact that we have a page where we can order items wi
 Anyway, it remains as a reference so that it can be adapted to each case assuming that something of interest has been found. 
 
 # Usage
+Syntax:
 `./getFlag.py <IP> <index_firstChar> <index_lastChar>`
 
-Example_:
+Example:
 `./getFlag.py 10.10.10.10 1 10 `
+
 This example will retrieve the first 10 chars of the flag.
 However, if you do not know the length of the flag, you can adjust the values as needed.
