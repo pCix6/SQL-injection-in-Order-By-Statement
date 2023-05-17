@@ -10,6 +10,7 @@ Anyway, it remains as a reference so that it can be adapted to each case assumin
 
 # Usage
 `./getFlag.py <IP> <index_firstChar> <index_lastChar>`
+
 Example_:
 `./getFlag.py 10.10.10.10 1 10 `
 This example will retrieve the first 10 chars of the flag.
