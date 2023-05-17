@@ -1,4 +1,4 @@
-# SQL-injection-in-Order-Statement
+# SQL-injection-in-Order-By-Statement
 
 In this repository you can find a script used in a CTF challenge to read a flag through a SQL injection via a parameter in the URL.  The script is made in python and implements threads and binary search, improving significantly its performance if done without threads and using linear search.
 
